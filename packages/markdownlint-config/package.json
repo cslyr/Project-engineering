@@ -21,9 +21,5 @@
   "peerDependencies": {
     "markdownlint": "^0.28.1"
   },
-  "dependencies": {
-    "encode-fe-markdownlint-config": "^0.1.0",
-    "encode-fe-markdownlint-config111": "file:"
-  },
-  "gitHead": "1815d849902bc6a910a18706fc8478e853daa80e"
+  "gitHead": "5be3e36ec39eba5b15f13f5481d78c9da8f7fc5d"
 }
