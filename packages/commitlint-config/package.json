@@ -1,5 +1,5 @@
 {
-  "name": "encode-fe-commitlint-config",
+  "name": "encode-fe-commitlint-config111",
   "version": "0.1.0",
   "main": "index.js",
   "description": "印客学院 Git规范",
@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0",
-    "encode-fe-commitlint-config": "file:"
-  }
+    "encode-fe-commitlint-config": "^0.1.0",
+    "encode-fe-commitlint-config111": "file:"
+  },
+  "gitHead": "1815d849902bc6a910a18706fc8478e853daa80e"
 }
